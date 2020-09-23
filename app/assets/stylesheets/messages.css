@@ -6,7 +6,6 @@
   width: 300px;
   height: 100vh;
 }
-
 .side-bar-header {
   height: 100px;
   padding: 0 20px;
@@ -88,7 +87,7 @@ padding: 20px;
   overflow: scroll;
 }
 
-message {
+.message {
   margin: 10px 0;
 }
 
